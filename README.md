@@ -1,4 +1,4 @@
-# Data Wrangling with Open Street Map (Boston)
+# Data Wrangling - Open Street Map (Boston)
 
 For brief review of the project see **P3_brief.ipynb** file and for more detail see **P3.ipynb**.
 
