@@ -26,7 +26,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `Bay_Area_Bike_Share_Analysis.ipynb` notebook file. You will also be required to use the included `babs_visualizations.py` Python file and the `babs_y1_y2_summary.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `babs_visualizations.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+The code is provided in the `P3_codes.py` file and more comprehensively in `P3_brief.ipynb` notebook file. 
 
 ### Run
 
